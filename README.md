@@ -25,8 +25,8 @@ A massive pack with pretty much all of these animations in one place. This one w
 There are some additional anims in this pack from the FZ community, including the following:
 1. Assorted Cyberpunk Vibe Anims (C28)
 2. Assorted CbrPnk2077 Company Logo Anims (Created by Kuronons https://github.com/Kuronons/FZ_graphics)
-3. A Hacking Cat (Created by Mnenkov https://github.com/mnenkov/flipper-zero-animations
-4. BelugaTheCat (Created by Mnenkov https://github.com/mnenkov/flipper-zero-animations
+3. A Hacking Cat (Created by Mnenkov https://github.com/mnenkov/flipper-zero-animations)
+4. BelugaTheCat (Created by Mnenkov https://github.com/mnenkov/flipper-zero-animations)
 5. An Axolotol (Created by Talking Sasquach https://github.com/skizzophrenic/Talking-Sasquach/tree/main/Finished%20Animations)
 
 
