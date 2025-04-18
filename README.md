@@ -1,7 +1,7 @@
 # Flipper-Asset-Packs
 Loads of Anims for you to enjoy! Please send me a message if you run into any issues with these! 
 
-Shout-out to Atomofiron forthe img2fbm tool! It's been loads of help when it comes to making these https://github.com/atomofiron/img2fbm
+Shout-out to Atomofiron for the img2fbm tool! It's been loads of help when it comes to making these https://github.com/atomofiron/img2fbm
 
 # How to use (REQUIRES CUSTOM FIRMWARE):
 
