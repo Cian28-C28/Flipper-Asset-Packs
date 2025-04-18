@@ -67,6 +67,7 @@ You know what this is. Let's spill the details on what's inside:
 # C28_Youtube_Flipper_Anims:
 A selection of requested animations from around cyberspace.
 1. Drunk_Man_Running_From_Cops
+2. Creepy_eye
 
 
 # More Anims
