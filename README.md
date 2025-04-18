@@ -69,13 +69,9 @@ A selection of requested animations from around cyberspace.
 1. Drunk_Man_Running_From_Cops
 
 
+# More Anims
+For more FZ anims, check out some of the best from the community:
 
-
-
-
-
-
-
-
-
-
+Kuronons https://github.com/Kuronons/FZ_graphics
+Talking Sasquach https://github.com/skizzophrenic/Talking-Sasquach/tree/main/Finished%20Animations
+Mnenkov https://github.com/mnenkov/flipper-zero-animations 
