@@ -1,5 +1,5 @@
 # Flipper-Asset-Packs
-Loads of Anims for you to enjoy! Please send me a message if you run int any issues with these! 
+Loads of Anims for you to enjoy! Please send me a message if you run into any issues with these! 
 
 # How to use (REQUIRES CUSTOM FIRMWARE):
 
