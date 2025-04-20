@@ -22,8 +22,8 @@ Shout-out to Atomofiron for the img2fbm tool! It's been loads of help when it co
 
 # Asset Pack Descriptions:
 
-# C28_Customs [ALL]v2:
-A massive pack with pretty much all of these animations in one place. This one will take a LONG TIME to load onto your flipper. 
+# C28_Customs [ALL]v4:
+A massive pack with pretty much all of these animations in one place. This one will take a LONG TIME to load onto your flipper. To load this faster, turn off your flipper, eject the microSD card, insert the microSD card into an adapter for your computer, then load the all pack into the correct folder directly. 
 There are some additional anims in this pack from the FZ community, including the following:
 1. Assorted Cyberpunk Vibe Anims (C28)
 2. Assorted CbrPnk2077 Company Logo Anims (Created by Kuronons https://github.com/Kuronons/FZ_graphics)
