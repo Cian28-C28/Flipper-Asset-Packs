@@ -64,6 +64,21 @@ You know what this is. Let's spill the details on what's inside:
 3. Obama_WTF
 4. Squidward_Future
 
+# C28_RickAndMorty:
+Some fun Rick and Motry Anims, requested by Soy Nasty
+1. Morty_I_Do_Not_Want_To_Build_An_App
+2. Rick_I_Turned_Myself_Into_A_Pickle
+3. Rick_Morty_Escape_beurocrats
+4. Rick_Morty_Full_Speed
+5. Rick_Morty_Get_Shwifty_01
+6. Rick_Morty_Get_Shwifty_02
+7. Rick_Morty_Peace_Among_Worlds
+8. Rick_Ride_Dragon
+9. Rick_Shoot_Self
+10. Rick_Summer_Portal_Grab
+11. Rick_You_Son_of_A_Bitch_Im_In
+
+
 # C28_Youtube_Flipper_Anims:
 A selection of requested animations from around cyberspace.
 1. Drunk_Man_Running_From_Cops
