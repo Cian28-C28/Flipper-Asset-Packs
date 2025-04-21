@@ -22,7 +22,7 @@ Shout-out to Atomofiron for the img2fbm tool! It's been loads of help when it co
 
 # Asset Pack Descriptions:
 
-# C28_Customs [ALL]v4:
+# C28_Customs [ALL]v5:
 A massive pack with pretty much all of these animations in one place. This one will take a LONG TIME to load onto your flipper. To load this faster, turn off your flipper, eject the microSD card, insert the microSD card into an adapter for your computer, then load the all pack into the correct folder directly. 
 There are some additional anims in this pack from the FZ community, including the following:
 1. Assorted Cyberpunk Vibe Anims (C28)
@@ -79,6 +79,17 @@ Some fun Rick and Motry Anims, requested by Soy Nasty
 10. Rick_Summer_Portal_Grab
 11. Rick_You_Son_of_A_Bitch_Im_In
 
+# C28_Borderlands
+GIFs from the seven galaxies!
+1. BL3_Amara_Finger_Gun_01
+2. BL3_Amara_Flex_01
+3. BL3_Amara_Zane_Happy_Together_Dance_01
+4. BL3_Moze_Bubble_Gum
+5. BL3_Zane_DigiClone_Cheers
+6. BL3_Zane_Drone_01
+7. BL4_Ripper_Psycho_Mask_01
+8. BL4_TimeKeeper_Crush_PsychoMask
+9. TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay
 
 # C28_Youtube_Flipper_Anims:
 A selection of requested animations from around cyberspace.
