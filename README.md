@@ -32,7 +32,7 @@ There are some additional anims in this pack from the FZ community, including th
 5. An Axolotol (Created by Talking Sasquach https://github.com/skizzophrenic/Talking-Sasquach/tree/main/Finished%20Animations)
 
 # C28_Cyberpunk
-General Cyberpunk Vibes. Has everything from the Lucy & Rebecca packs as well as some general cyberpunk vibes and the logo anims created by Kuronons (https://github.com/Kuronons/FZ_graphics)
+General Cyberpunk Vibes. Has everything from the Lucy & Rebecca packs as well as some general cyberpunk vibes and some logo anims created by Kuronons (https://github.com/Kuronons/FZ_graphics)
 
 # C28_CPER_Lucy: 
 Cyberpunk Edgerunners Lucy pack, with the following anims:
