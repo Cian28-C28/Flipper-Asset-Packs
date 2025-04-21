@@ -32,6 +32,8 @@ There are some additional anims in this pack from the FZ community, including th
 5. BelugaTheCat (Created by Mnenkov https://github.com/mnenkov/flipper-zero-animations)
 6. An Axolotol (Created by Talking Sasquach https://github.com/skizzophrenic/Talking-Sasquach/tree/main/Finished%20Animations)
 
+# C28_Cyberpunk
+General Cyberpunk Vibes. Has everything from the Lucy & Rebecca packs as well as some general cyberpunk vibes and the logo anims created by Kuronons (https://github.com/Kuronons/FZ_graphics)
 
 # C28_CPER_Lucy: 
 Cyberpunk Edgerunners Lucy pack, with the following anims:
@@ -40,6 +42,7 @@ Cyberpunk Edgerunners Lucy pack, with the following anims:
 3. Lucy Laugh
 4. Lucy Smile
 5. Lucy Overloaded
+6. Lucy_Pounce
 
 # C28_CPER_Rebecca:
 Cyberpunk Edgerunners Rebecca pack, with the following anims:
