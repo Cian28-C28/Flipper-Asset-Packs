@@ -85,6 +85,9 @@ A selection of requested animations from around cyberspace.
 1. Drunk_Man_Running_From_Cops
 2. Creepy_eye
 
+# C28_Favs
+The pack that I rock on my FZ. It's got most of what's in the [ALL] pack, with a few taken out. It takes little effort to maintain this repo, so I figured I'd let you have this one too ;P
+
 
 # More Anims
 For more FZ anims, check out some of the best from the community:
