@@ -46,10 +46,25 @@ Cyberpunk Edgerunners Lucy pack, with the following anims:
 # C28_CPER_Rebecca:
 Cyberpunk Edgerunners Rebecca pack, with the following anims:
 1. Rebecca_Whats_Up_Choom
+
+![Becca_Whats_Up_Choom](https://github.com/user-attachments/assets/fcc45ee0-cee8-4227-a1cd-b2a4bd72d901)
+
 2. Rebecca_Head_Tap_With_Gun
+
+![Rebecca_HeadTap](https://github.com/user-attachments/assets/d630eef9-51d8-4b40-a4de-3f292164e2f1)
+
 3. Rebecca_Mad
+
+![Rebecca_Mad](https://github.com/user-attachments/assets/0ce508b2-d3f7-4e55-a5c9-4ea930293801)
+
 4. Rebecca_Psycho
+
+![Rebecca_Psycho](https://github.com/user-attachments/assets/eabce96d-0cb8-4165-86b8-aaa88d3fbd47)
+
 5. Rebecca_Shooting_Guns
+
+![Rebecca_Shoot_guns](https://github.com/user-attachments/assets/d7fbc4a8-2e3c-4041-aded-2aa44cc417fc)
+
 
 # C28_Data_Brrr:
 A bunch of funky data graphics, has everything from data glitch and data scroll as well as some other fun visuals 
