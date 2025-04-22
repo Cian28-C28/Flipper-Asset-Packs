@@ -10,7 +10,7 @@ Shout-out to Atomofiron for the img2fbm tool! It's been loads of help when it co
 3. Navigate to the SD card
 5. Most Firmware will provide you with an "asset_packs" folder; navigate to this directory
 6. Open a File Explorer or Finder window with the asset pack you'd like to install into your Flipper pulled up
-7. Drag and drop the root folder for the pack (ie "C28_Customs_All") to this "asset_packs" folder on your flipper
+7. Drag and drop the root folder for the pack (ie "C28_Customs [All]vx") to this "asset_packs" folder on your flipper
 8. Wait for QFlipper to tell you the upload has completed
 9. Disconnect if you'd like (has no effect now that the files are on your Flipper)
 10. Navigate to the [Firmware] app for your device. This app is typically near the settings app, and has the firmware's logo + name or abbreviated name (ie "MNTM")
