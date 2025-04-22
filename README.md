@@ -91,30 +91,129 @@ A bunch of funky data graphics, has everything from data glitch and data scroll 
 
 # C28_Data_Glitch:
 Loads of glitching data anims; things that look like corrupted matrix rain or a terminal window going mad. Lots of jittery and distorted visuals here.
+1. Data_Glitch_01
+
+![Data_Glitch_01](https://github.com/user-attachments/assets/f858902c-2be9-4e0e-9480-4e38591fa6a2)
+
+2. Data_Glitch_02
+
+![Data_Glitch_02](https://github.com/user-attachments/assets/f1532523-cc0a-4fa4-a107-a0e13d8b6d18)
+
+3. Data_Glitch_03
+
+![Data_Glitch_03](https://github.com/user-attachments/assets/02a90db1-3565-4f35-8de2-105e42389463)
+
+4. Data_Glitch_04
+
+![Data_Glitch_04](https://github.com/user-attachments/assets/086a7092-f158-4539-b9ee-348b5b34710d)
+
+5. Data_Glitch_05
+
+![Data_Glitch_05](https://github.com/user-attachments/assets/08672893-c28f-407b-8ac0-adc01d304bdc)
+
+6. Data_Glitch_06
+
+![Data_Glitch_06](https://github.com/user-attachments/assets/d79c0864-05b6-4a48-a648-a754ff7be977)
+
 
 # C28_Data_Scroll:
 Classic matrix rain effects; simple, elegant data rain. 
+1. Data_Rain_01
+
+![Data_Rain_01](https://github.com/user-attachments/assets/66fa9e01-6b7b-4264-beaa-ad3d7c659231)
+
+2. Data_Rain_02
+
+![Data_Rain_02](https://github.com/user-attachments/assets/5d9c52fc-bf92-4fd1-9dd0-0e1e2db0aaa3)
+
+3. Data_Rain_03
+
+![Data_Rain_03](https://github.com/user-attachments/assets/dd082cd1-3c76-4f04-a298-5491295c4d21)
+
+4. Data_Rain_04
+
+![Data_Rain_04](https://github.com/user-attachments/assets/7647241a-8701-47c2-8c51-9052c0bf3060)
+
+5. Data_Rain_05
+
+![Data_Rain_05](https://github.com/user-attachments/assets/fcfccb9e-f094-4bbc-bdcf-edc04168dd1a)
+
+6. Scrolling_Code
+
+![Scrolling_Code](https://github.com/user-attachments/assets/959887ee-ad20-4ddd-8cbd-d12b933cf7cc)
+
+7. Code_Rain_02
+
+![Code Rain_02](https://github.com/user-attachments/assets/51475af4-5c5f-4eb7-adcb-7a52ebd85bb5)
+
+
+
 
 # C28_Memes:
 You know what this is. Let's spill the details on what's inside:
 1. Cybertruck_Glass_Break
+
+![Cybertruck_Glass_Break](https://github.com/user-attachments/assets/06036a42-1b4f-4828-8de2-bae0308b36e2)
+
 2. Nyan_Cat
+
+![Nyan_Cat](https://github.com/user-attachments/assets/702ac40e-3420-450f-89d7-89a451ab35d0)
+
 3. Obama_WTF
+
+![Obama_WTF](https://github.com/user-attachments/assets/58b833f9-8dbd-47e1-adb8-487d421c943b)
+
 4. Squidward_Future
+
+![Squidward_Future](https://github.com/user-attachments/assets/b4a0b792-86bb-4b90-bb37-1392ec4a7c88)
+
 
 # C28_RickAndMorty:
 Some fun Rick and Motry Anims, requested by Soy Nasty
 1. Morty_I_Do_Not_Want_To_Build_An_App
+
+![Morty_I_Do_Not_Want_To_Build_An_App](https://github.com/user-attachments/assets/511fff45-fd04-44b5-bf95-efbdfdc4e252)
+
 2. Rick_I_Turned_Myself_Into_A_Pickle
+
+![Rick_I_Turned_Myself_Into_A_Pickle](https://github.com/user-attachments/assets/2f5c0d0d-766d-43a8-81b1-ac85a5885636)
+
 3. Rick_Morty_Escape_beurocrats
+
+![Rick_Morty_Escape_beurocrats](https://github.com/user-attachments/assets/be0abf61-85f2-41af-ba2a-6e30122a1d4c)
+
 4. Rick_Morty_Full_Speed
+
+![Rick_Morty_Full_Speed](https://github.com/user-attachments/assets/a22ee660-0ad2-4ee8-b203-983b4ed0bb16)
+
 5. Rick_Morty_Get_Shwifty_01
+
+![Rick_Morty_Get_Shwifty_01](https://github.com/user-attachments/assets/6aac0184-9e4c-4543-86ae-84df4a702fbd)
+
 6. Rick_Morty_Get_Shwifty_02
+
+![Rick_Morty_Get_Shwifty_02](https://github.com/user-attachments/assets/8ee698e6-563d-47f1-8dd3-45fa8a173e8e)
+
 7. Rick_Morty_Peace_Among_Worlds
+
+![Rick_Morty_Peace_Among_Worlds](https://github.com/user-attachments/assets/679f4818-f769-45d9-aecd-8b10ea02daae)
+
 8. Rick_Ride_Dragon
+
+![Rick_Ride_Dragon](https://github.com/user-attachments/assets/a0b2e434-7d27-44ad-a494-b2d77753cde7)
+
 9. Rick_Shoot_Self
+
+![Rick_Shoot_Self](https://github.com/user-attachments/assets/a284da1c-565b-4717-9f3a-5da371e91e13)
+
 10. Rick_Summer_Portal_Grab
+
+![Rick_Summer_Portal_Grab](https://github.com/user-attachments/assets/593e7d6f-4747-4113-a935-ea911ae5b7d3)
+
 11. Rick_You_Son_of_A_Bitch_Im_In
+
+![Rick_You_Son_of_A_Bitch_Im_In](https://github.com/user-attachments/assets/fe2b292b-51dc-4255-9800-dc2ce6840088)
+
 
 # C28_Borderlands
 GIFs from the seven galaxies!
