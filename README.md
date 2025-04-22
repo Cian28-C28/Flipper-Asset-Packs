@@ -84,22 +84,40 @@ Some fun Rick and Motry Anims, requested by Soy Nasty
 # C28_Borderlands
 GIFs from the seven galaxies!
 1. BL3_Amara_Finger_Gun_01
+
+
 ![BL3_Amara_Finger_Gun_01](https://github.com/user-attachments/assets/25660863-2a37-4df7-ad76-7ee66db512ef)
 2. BL3_Amara_Flex_01
+
+
 ![BL3_Amara_Flex_01](https://github.com/user-attachments/assets/728274db-1b33-4144-8f9f-d8e5c2ab9ca7)
 3. BL3_Amara_Zane_Happy_Together_Dance_01
+
+
 ![BL3_Amara_Zane_Happy_Together_Dance_01](https://github.com/user-attachments/assets/8f1600de-03de-458e-8e55-faf22323cbe0)
 4. BL3_Moze_Bubble_Gum
+
+
 ![BL3_Moze_Bubble_Gum](https://github.com/user-attachments/assets/f69d74f3-d58f-4902-b017-1bcf064b799a)
 5. BL3_Zane_DigiClone_Cheers
+
+
 ![BL3_Zane_DigiClone_Cheers](https://github.com/user-attachments/assets/ad516a95-e764-4e72-8f12-7f8593b24f15)
 6. BL3_Zane_Drone_01
+
+
 ![BL3_Zane_Drone_01](https://github.com/user-attachments/assets/fdd76b0d-2b55-4a95-b57f-4fe407b168a9)
 7. BL4_Ripper_Psycho_Mask_01
+
+
 ![BL4_Ripper_Psycho_Mask_01](https://github.com/user-attachments/assets/53988c23-3dcd-4dca-8656-575b6a6c85c2)
 8. BL4_TimeKeeper_Crush_PsychoMask
+
+
 ![BL4_TimeKeeper_Crush_PsychoMask](https://github.com/user-attachments/assets/1bfdcdf0-757c-4599-97cb-5b5c7b05d503)
 9. TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay
+
+
 ![TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay](https://github.com/user-attachments/assets/3e692941-24a9-44b7-a462-cc572affc097)
 
 
