@@ -37,11 +37,31 @@ General Cyberpunk Vibes. Has everything from the Lucy & Rebecca packs as well as
 # C28_CPER_Lucy: 
 Cyberpunk Edgerunners Lucy pack, with the following anims:
 1. Lucy Hacking
+
+![Lucy_Hacking](https://github.com/user-attachments/assets/72fe86f3-7f53-470c-8f80-d9a80aa19fbf)
+
 2. Lucy Hacking_2
+
+![Lucy_Hacking_02](https://github.com/user-attachments/assets/80bd4dcd-4df4-42cd-ae1c-788ae80e90c7)
+
 3. Lucy Laugh
+
+![Lucy_Laugh](https://github.com/user-attachments/assets/25712d76-dad4-478b-9b8a-ce8657943926)
+
 4. Lucy Smile
+
+![Lucy_Smile](https://github.com/user-attachments/assets/344284ae-61e2-4624-a233-25e31c2f4470)
+
 5. Lucy Overloaded
+
+![Lucy_Overloaded](https://github.com/user-attachments/assets/8e6161c1-b92d-498a-b8b9-80c77e055ed0)
+
+
 6. Lucy_Pounce
+
+![Lucy_Pounce](https://github.com/user-attachments/assets/40d7d0b2-f33d-492f-8f8e-e5c329c51c1e)
+
+
 
 # C28_CPER_Rebecca:
 Cyberpunk Edgerunners Rebecca pack, with the following anims:
