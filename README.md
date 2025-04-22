@@ -33,6 +33,29 @@ There are some additional anims in this pack from the FZ community, including th
 
 # C28_Cyberpunk
 General Cyberpunk Vibes. Has everything from the Lucy & Rebecca packs as well as some general cyberpunk vibes and some logo anims created by Kuronons (https://github.com/Kuronons/FZ_graphics)
+Below are some examples of the extra additions (but there are more): 
+
+Cyber_Daemon: 
+
+![Cyber_Daemon](https://github.com/user-attachments/assets/e1a086d5-b5c2-4c74-b6f5-bf51e281c3c3)
+
+Girl_Error_Glitch:
+
+![GirlErrorGIF-ezgif com-effects](https://github.com/user-attachments/assets/a0f23887-7606-4a62-a3eb-78b3269eb129)
+
+Holo_Girl:
+
+![Holo_Girl_01](https://github.com/user-attachments/assets/de9fb860-b698-485d-b171-5c2c84cb22fe)
+
+Jackie_Flathead_Dance:
+
+![Jackie_Flathead_Dance](https://github.com/user-attachments/assets/bb734bd7-4edc-4ab1-98cc-55998278b606)
+
+Brain_Dance: 
+
+![Brain_Dance](https://github.com/user-attachments/assets/5c9cceb4-9709-449b-8671-90342c2adf80)
+
+
 
 # C28_CPER_Lucy: 
 Cyberpunk Edgerunners Lucy pack, with the following anims:
@@ -274,7 +297,13 @@ GIFs from the seven galaxies!
 # C28_Youtube_Flipper_Anims:
 A selection of requested animations from around cyberspace.
 1. Drunk_Man_Running_From_Cops
+
+![Drunk_Man_Run_From_Cops](https://github.com/user-attachments/assets/6c187fb8-2616-4ad9-bb47-0bdb04d9b65c)
+
 2. Creepy_eye
+
+![Crepy_Eye](https://github.com/user-attachments/assets/a0cb4af9-59b6-479f-8381-01cbc5f14ce0)
+
 
 # C28_Favs
 The pack that I rock on my FZ. It's got most of what's in the [ALL] pack, with a few taken out. It takes little effort to maintain this repo, so I figured I'd let you have this one too ;P
