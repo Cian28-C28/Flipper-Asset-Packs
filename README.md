@@ -308,6 +308,13 @@ A selection of requested animations from around cyberspace.
 
 ![L337_Shift](https://github.com/user-attachments/assets/47796fe2-b36b-4ae9-bbcc-209a12c278db)
 
+4. Dark_Flipper_Burning_Rage_01
+
+![Dark_Flipper_Burning_Rage_01](https://github.com/user-attachments/assets/70468619-4b79-45ed-aa5a-4144f0a1ab51)
+
+
+
+
 
 # C28_Favs
 The pack that I rock on my FZ. It's got most of what's in the [ALL] pack, with a few taken out. It takes little effort to maintain this repo, so I figured I'd let you have this one too ;P
