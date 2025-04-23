@@ -304,6 +304,10 @@ A selection of requested animations from around cyberspace.
 
 ![Crepy_Eye](https://github.com/user-attachments/assets/a0cb4af9-59b6-479f-8381-01cbc5f14ce0)
 
+3. L337_Shift
+
+![L337_Shift](https://github.com/user-attachments/assets/47796fe2-b36b-4ae9-bbcc-209a12c278db)
+
 
 # C28_Favs
 The pack that I rock on my FZ. It's got most of what's in the [ALL] pack, with a few taken out. It takes little effort to maintain this repo, so I figured I'd let you have this one too ;P
