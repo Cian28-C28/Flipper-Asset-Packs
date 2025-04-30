@@ -312,6 +312,11 @@ A selection of requested animations from around cyberspace.
 
 ![Dark_Flipper_Burning_Rage_01](https://github.com/user-attachments/assets/70468619-4b79-45ed-aa5a-4144f0a1ab51)
 
+5. Cute_Dog_Thing
+
+![Cute_Dog_Thing](https://github.com/user-attachments/assets/7ae98b6c-b05f-4c58-ba5e-2baeb61594b7)
+
+
 
 
 
