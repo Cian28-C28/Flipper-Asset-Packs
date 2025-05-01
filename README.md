@@ -31,6 +31,92 @@ There are some additional anims in this pack from the FZ community, including th
 4. BelugaTheCat (Created by Mnenkov https://github.com/mnenkov/flipper-zero-animations)
 5. An Axolotol (Created by Talking Sasquach https://github.com/skizzophrenic/Talking-Sasquach/tree/main/Finished%20Animations)
 
+
+# C28_Borderlands
+GIFs from the seven galaxies!
+1. BL3_Amara_Finger_Gun_01
+
+
+![BL3_Amara_Finger_Gun_01](https://github.com/user-attachments/assets/25660863-2a37-4df7-ad76-7ee66db512ef)
+
+
+2. BL3_Amara_Flex_01
+
+
+![BL3_Amara_Flex_01](https://github.com/user-attachments/assets/728274db-1b33-4144-8f9f-d8e5c2ab9ca7)
+
+
+3. BL3_Amara_Zane_Happy_Together_Dance_01
+
+
+![BL3_Amara_Zane_Happy_Together_Dance_01](https://github.com/user-attachments/assets/8f1600de-03de-458e-8e55-faf22323cbe0)
+
+
+4. BL3_Moze_Bubble_Gum
+
+
+![BL3_Moze_Bubble_Gum](https://github.com/user-attachments/assets/f69d74f3-d58f-4902-b017-1bcf064b799a)
+
+
+5. BL3_Zane_DigiClone_Cheers
+
+
+![BL3_Zane_DigiClone_Cheers](https://github.com/user-attachments/assets/ad516a95-e764-4e72-8f12-7f8593b24f15)
+
+
+6. BL3_Zane_Drone_01
+
+
+![BL3_Zane_Drone_01](https://github.com/user-attachments/assets/fdd76b0d-2b55-4a95-b57f-4fe407b168a9)
+
+
+7. BL4_Ripper_Psycho_Mask_01
+
+
+![BL4_Ripper_Psycho_Mask_01](https://github.com/user-attachments/assets/53988c23-3dcd-4dca-8656-575b6a6c85c2)
+
+
+8. BL4_TimeKeeper_Crush_PsychoMask
+
+
+![BL4_TimeKeeper_Crush_PsychoMask](https://github.com/user-attachments/assets/1bfdcdf0-757c-4599-97cb-5b5c7b05d503)
+
+
+9. TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay
+
+
+![TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay](https://github.com/user-attachments/assets/3e692941-24a9-44b7-a462-cc572affc097)
+
+
+10. BL4_Amon_Jump_Attack_01
+
+![BL4_Amon_Jump_Attack_01](https://github.com/user-attachments/assets/162d080a-fd9b-4e44-b2cc-f39a64d54a81)
+
+11. BL4_Blow_Shit_Up_Together_01
+
+![BL4_Blow_Shit_Up_Together_01](https://github.com/user-attachments/assets/5eb11ad8-e5a5-45ae-b1a1-a60d5571430e)
+
+12. BL4_Chatacters_Jump_01
+
+![BL4_Chatacters_Jump_01](https://github.com/user-attachments/assets/a12fb0f8-bd4b-40ee-bdae-bd15e5f8df95)
+
+13. BL4_Harlowe_Bubble_Explocde_01
+
+![BL4_Harlowe_Bubble_Explocde_01](https://github.com/user-attachments/assets/a1a90f2c-b584-4906-9c49-3bd6c10dcf6c)
+
+14. BL4_Rafa_Digistruct_Shoot_01 
+
+![BL4_Rafa_Digistruct_Shoot_01](https://github.com/user-attachments/assets/00f5e61d-b632-4ae4-a7a7-6d91abfb8e93)
+
+15. BL4_Timekeeper_Vault_01
+
+![BL4_Timekeeper_Vault_01](https://github.com/user-attachments/assets/acdf2a95-30f9-4131-a5e2-ee9e8f14b4cc)
+
+16. BL4_Vex_Shooting_01
+
+![BL4_Vex_Shooting_01](https://github.com/user-attachments/assets/b9c03de4-9dcf-40e4-b50a-faf9c525f36d)
+
+
 # C28_Cyberpunk
 General Cyberpunk Vibes. Has everything from the Lucy & Rebecca packs as well as some general cyberpunk vibes and some logo anims created by Kuronons (https://github.com/Kuronons/FZ_graphics)
 Below are some examples of the extra additions (but there are more): 
@@ -237,61 +323,6 @@ Some fun Rick and Motry Anims, requested by Soy Nasty
 
 ![Rick_You_Son_of_A_Bitch_Im_In](https://github.com/user-attachments/assets/fe2b292b-51dc-4255-9800-dc2ce6840088)
 
-
-# C28_Borderlands
-GIFs from the seven galaxies!
-1. BL3_Amara_Finger_Gun_01
-
-
-![BL3_Amara_Finger_Gun_01](https://github.com/user-attachments/assets/25660863-2a37-4df7-ad76-7ee66db512ef)
-
-
-2. BL3_Amara_Flex_01
-
-
-![BL3_Amara_Flex_01](https://github.com/user-attachments/assets/728274db-1b33-4144-8f9f-d8e5c2ab9ca7)
-
-
-3. BL3_Amara_Zane_Happy_Together_Dance_01
-
-
-![BL3_Amara_Zane_Happy_Together_Dance_01](https://github.com/user-attachments/assets/8f1600de-03de-458e-8e55-faf22323cbe0)
-
-
-4. BL3_Moze_Bubble_Gum
-
-
-![BL3_Moze_Bubble_Gum](https://github.com/user-attachments/assets/f69d74f3-d58f-4902-b017-1bcf064b799a)
-
-
-5. BL3_Zane_DigiClone_Cheers
-
-
-![BL3_Zane_DigiClone_Cheers](https://github.com/user-attachments/assets/ad516a95-e764-4e72-8f12-7f8593b24f15)
-
-
-6. BL3_Zane_Drone_01
-
-
-![BL3_Zane_Drone_01](https://github.com/user-attachments/assets/fdd76b0d-2b55-4a95-b57f-4fe407b168a9)
-
-
-7. BL4_Ripper_Psycho_Mask_01
-
-
-![BL4_Ripper_Psycho_Mask_01](https://github.com/user-attachments/assets/53988c23-3dcd-4dca-8656-575b6a6c85c2)
-
-
-8. BL4_TimeKeeper_Crush_PsychoMask
-
-
-![BL4_TimeKeeper_Crush_PsychoMask](https://github.com/user-attachments/assets/1bfdcdf0-757c-4599-97cb-5b5c7b05d503)
-
-
-9. TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay
-
-
-![TTWL_Tiny_Tina_Were_Playling_Bunkers_and_Badasses_Baybay](https://github.com/user-attachments/assets/3e692941-24a9-44b7-a462-cc572affc097)
 
 
 # C28_Youtube_Flipper_Anims:
