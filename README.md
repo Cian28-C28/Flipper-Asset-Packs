@@ -324,6 +324,49 @@ Some fun Rick and Motry Anims, requested by Soy Nasty
 ![Rick_You_Son_of_A_Bitch_Im_In](https://github.com/user-attachments/assets/fe2b292b-51dc-4255-9800-dc2ce6840088)
 
 
+# C28_VA11_Hall_A
+A bunch of anims from the game + fan art anims.
+
+1. VA11_Hall_A_Alma_01
+
+![VA11_Hall_A_Alma_01](https://github.com/user-attachments/assets/1b3e53f8-effa-470b-a089-c08124341b05)
+
+2. VA11_Hall_A_Bartender_01
+
+![VA11_Hall_A_bartender_01](https://github.com/user-attachments/assets/136e0190-4d17-4d61-ad0b-727a24312746)
+
+3. VA11_Hall_A_Character_Glitch_01
+
+![VA11_Hall_A_Character_Glitch_01](https://github.com/user-attachments/assets/de41324f-3249-4227-b1ee-45bf950c21f1)
+
+4. VA11_Hall_A_Character_Glitch_02
+
+![VA11_Hall_A_Character_Glitch_02](https://github.com/user-attachments/assets/3b5d6d1b-d879-4b89-bfe2-d0b06f5898bb)
+
+5. VA11_Hall_A_Characters_Wind_City
+
+![VA11_Hall_A_Characters_Wind_City](https://github.com/user-attachments/assets/a0b95679-50ee-415a-b7d1-0180a8034b69)
+
+6. VA11_Hall_A_City_Scene_01
+
+![VA11_Hall_A_City_Scene_01](https://github.com/user-attachments/assets/0596219b-19bd-4750-9c08-ad1676c861a2)
+
+7. VA11_Hall_A_Dorothy_Cry_01
+
+![VA11_Hall_A_Dorothy_Cry_01](https://github.com/user-attachments/assets/c9e375dc-7025-4526-b04f-0d865dcd84a2)
+
+8. VA11_Hall_A_Dorothy_Hazy_01
+
+![VA11_Hall_A_Dorothy_Hazy_01](https://github.com/user-attachments/assets/33a540b2-fadc-4c52-965f-39dbf68aa6f4)
+
+9. VA11_Hall_A_Kira_01
+
+![VA11_Hall_A_Kira_01](https://github.com/user-attachments/assets/1ee6fc9b-8bf0-47be-b2a8-d516ef0751ce)
+
+10. VA11_Hall_A_Streamer_Chan_01
+
+![VA11_Hall_A_Streamer_Chan_01](https://github.com/user-attachments/assets/6cd5f024-a9c1-4eed-afca-e90ba955af35)
+
 
 # C28_Youtube_Flipper_Anims:
 A selection of requested animations from around cyberspace.
